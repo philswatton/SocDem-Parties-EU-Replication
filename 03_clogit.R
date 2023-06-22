@@ -32,6 +32,9 @@ controls <- c("winProb", "like", "leaderLike", "lagChosen", "chosenID")
 # Simulated positions
 source("labsim.R")
 
+# Folder
+if (!dir.exists("results")) dir.create("results")
+
 # Main models
 set.seed(42)
 models <- estimate_models(dist, controls)
