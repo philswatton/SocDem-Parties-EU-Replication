@@ -33,7 +33,7 @@ The main point of this repository is to offer the scripts used to prepare and an
 
 ## Not In This Repository
 
-Users of this repository should be able to rune scripts 2 and 3 without making any further changes. Script 3 must be run before script 4 is run. The original BES data files used are not however included, and thus script 1 cannot be run without making further downloads. They can be easily downloaded however. The files used are:
+Users of this repository should be able to run scripts 2 and 3 without making any further changes. Script 3 must be run before script 4 is run. The original BES data files used are not however included, and thus script 1 cannot be run without making further downloads. They can be easily downloaded however. The files used are:
   
 1. BES Internet Panel Wave 17, version 1.0-2, STATA file
 2. BES 2019 General Election Results File, version 1.1, STATA file
